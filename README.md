@@ -13,7 +13,8 @@ How to Run:
 
 
 Output:
-![EEG & ECG Plot Screenshot](
+
+![EEG & ECG Plot](Example_Output.png)
 
  
 
