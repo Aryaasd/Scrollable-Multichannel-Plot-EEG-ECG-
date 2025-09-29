@@ -1,4 +1,5 @@
 EEG & ECG Visualization Tool
+This tool loads EEG/ECG CSV data and provides an interactive Plotly visualization with scrolling, zooming, and exporting options
 
 How to Run:
 - Install Python
@@ -9,6 +10,11 @@ How to Run:
     - Interactive browser plot
     - eeg_ecg_plot.html (shareable interactive file)  
     - eeg_ecg_plot.png (static export)
+
+
+Output:
+![EEG & ECG Plot Screenshot](
+
  
 
 Design Choices:
