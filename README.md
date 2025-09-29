@@ -16,5 +16,14 @@ Design Choices:
 - Usability: Zoom, scroll, hover tooltips, channel toggling via legend.
 - Extras: Automatic export to HTML/PNG.
 
+
+Use of Ai:
+- Suggest usability improvements(channel selection, dual y-axes).
+- Provide explanations for use of certain tools in Python
+- Organize and clean code
+
+All AI-generated code was reviewed, adapted, and tested before inclusion.
+
+
 Future Work:
 - Automatic export to HTML and PNG
